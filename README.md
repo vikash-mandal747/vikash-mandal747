@@ -15,7 +15,7 @@ seamless, scalable web applications. Excels in problemsolving and collaborative 
   <a href="https://www.linkedin.com/in/vikash-kumar-mandal/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://grand-douhua-604d72.netlify.app/" target="_blank">
+  <a href="https://phenomenal-capybara-6b993e.netlify.app/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
